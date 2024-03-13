@@ -1,0 +1,16 @@
+{
+  "emails": [
+    {
+      "id": "cfa9",
+      "text": "<i>Hello</i>! <u>Bro</u>, it is new <b>email</b>"
+    },
+    {
+      "id": "d324",
+      "text": "Hello, world"
+    },
+    {
+      "id": "ba4b",
+      "text": "That's realy <u><b>NICE</u>!!!</b>"
+    }
+  ]
+}
